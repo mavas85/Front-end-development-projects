@@ -1,0 +1,25 @@
+body {
+
+}
+.x {
+  height: 100px;
+  width: 100px;
+  background: #333333;
+  margin: 3px;
+}
+.container {
+	position: absolute;
+	
+	position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+button {
+	position: relative;
+	margin: auto;
+	width: 50%;
+	height: -40%;
+	
+}
